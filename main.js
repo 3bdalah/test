@@ -1,2 +1,2 @@
 let name = "khalid";
-console.log("test", name);
+console.log("testcccc", name);
