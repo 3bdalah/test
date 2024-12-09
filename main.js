@@ -1,3 +1,3 @@
 let name = "khalid";
-console.log("test", name);
-// test
+console.log("test 00", name);
+// test new 
